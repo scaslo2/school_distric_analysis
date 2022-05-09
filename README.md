@@ -1,4 +1,4 @@
-# school_distric_analysis
+# school_district_analysis
 
 ## Overview of the school district analysis: Explain the purpose of this analysis.
 The school board that asked us to run our initial analysis on the school district has found evidence of academic dishonesty. We have been tasked with re-doing our analysis, adjusting our data for the altered scores. We make sure to adjust the grade averages for reading and math as well as the overall averages. From here we re-ran our analysis summery for each grade, school district and school type. 
